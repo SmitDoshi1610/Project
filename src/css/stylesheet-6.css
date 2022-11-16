@@ -1,0 +1,96 @@
+* {
+    font-family: "Gilroy";
+}
+
+/* Css for main Section */
+.first-h1 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+    opacity: 0.4;
+}
+
+.second-h1 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 132px;
+    line-height: 160px;
+
+    color: #000000;
+}
+
+.third-h1 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+
+    color: #000000;
+
+    opacity: 0.4;
+}
+
+.fourth-h1 {
+    text-align: center;
+
+}
+
+.texture {
+    padding-bottom: 24px;
+}
+
+.vertical-line {
+    width: 150px;
+    height: 150px;
+    border-color: #000000;
+    color: #000000;
+
+}
+
+/* Css for profile  */
+.image {
+
+    width: 250px;
+    height: 250px;
+    border-radius: 6px;
+}
+
+.button {
+    width: 316px;
+    height: 48px;
+    background: #407BFF;
+    border-radius: 12px;
+}
+
+.region-help .block {
+    overflow: hidden;
+}
+
+.layout__region--second>.block-views-blockprograms-block-1 {
+    margin-bottom: 40px;
+}
+
+.clearfix:after {
+    display: table;
+    clear: both;
+    content: "";
+}
+
+.form-group:last-child,
+.panel:last-child,
+p:last-child {
+    margin-bottom: 0;
+}
+
+.all-finalists-flex .view-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
